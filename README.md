@@ -1,12 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=260&amp;color=0:0F0C29,50:302B63,100:24243E&amp;text=Gandham%20Lakshmi%20Praneeth%20Sai&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&amp;descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=280&amp;color=0:4F46E5,50:7C3AED,100:06B6D4&amp;text=GANDHAM%20LAKSHMI%20PRANEETH%20SAI&amp;fontSize=36&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&amp;descAlignY=58"/>
 
-Building intelligent systems from scratch
-Full Stack plus Machine Learning equals Real Impact
-Civic tech, fraud detection, and more...
-B.Tech CSE @ PVPSIT, Andhra Pradesh
-Learning every day. Shipping every week.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+intelligent+systems+from+scratch;Full+Stack+%2B+ML+%3D+Real+Impact;Civic+tech%2C+fraud+detection%2C+and+more...;B.Tech+CSE+%40+PVPSIT%2C+Andhra+Pradesh;Learning+every+day.+Shipping+every+week.)](https://git.io/typing-svg)
 
 </div>
 
@@ -137,10 +133,13 @@ Java lab exercises exploring Object-Oriented Programming concepts.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=glpsai-2006&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=glpsai-2006&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=glpsai-2006&amp;theme=tokyonight&amp;hide_border=true"/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glpsai-2006&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glpsai-2006&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=glpsai-2006&amp;theme=tokyonight&amp;utcOffset=5.5"/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=glpsai-2006&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20Activity%20Graph"/>
 
 </div>
 
